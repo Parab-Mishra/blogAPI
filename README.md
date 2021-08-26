@@ -29,6 +29,6 @@ Frameworks and packages used are -
 -> Morgan
 -> jsonwebtoken
 -> express-jwt
+_________________________________________________________________________________________________
 
-
-
+This project is made while attending API design workshop on FrontendMasters.
