@@ -2,11 +2,11 @@ This api is an api for a blog web application.
 
 It has features like -
 * users - 
-          Users can me created, accessed, updated and deleted.
+          Users can be created, accessed, updated and deleted.
 * posts - 
-          Posts can me created, accessed, updated and deleted.
+          Posts can be created, accessed, updated and deleted.
 * categories - 
-          Categories can me created, accessed, updated and deleted.
+          Categories can be created, accessed, updated and deleted.
           
 * Authentication -
           uses JWT for authentication mechanism.
